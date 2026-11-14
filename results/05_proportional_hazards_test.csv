@@ -1,0 +1,6 @@
+"term","chisq","df","p"
+"age_group",1.82,2,0.402
+"cytogenetic_risk",0.62,2,0.734
+"smoking_history",0.2,1,0.654
+"tp53_mutated",1.11,1,0.292
+"GLOBAL",4.75,6,0.576

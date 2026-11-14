@@ -1,0 +1,8 @@
+"group","n","deaths","median_months","ci_95","analysis","log_rank_p"
+"All patients",160,129,11.3,"9.1-14.4","Overall",NA
+"< 60",56,41,10,"7.5-26.9","Age group",0.298
+"60-70",62,49,14.4,"11.1-20.2","Age group",0.298
+"> 70",42,39,8.4,"6.6-14.4","Age group",0.298
+"Good",30,18,28.8,"14.3-NA","Cytogenetic risk",9.52e-06
+"Intermediate",66,52,14.4,"11-24.3","Cytogenetic risk",9.52e-06
+"Poor",64,59,6.1,"4.3-8.3","Cytogenetic risk",9.52e-06
